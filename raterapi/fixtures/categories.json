@@ -1,0 +1,44 @@
+[
+  {
+    "model": "raterapi.category",
+    "pk": 1,
+    "fields": {
+      "name": "Strategy"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 2,
+    "fields": {
+      "name": "Family"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 3,
+    "fields": {
+      "name": "Party"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 4,
+    "fields": {
+      "name": "Card Game"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 5,
+    "fields": {
+      "name": "Cooperative"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 6,
+    "fields": {
+      "name": "Adventure"
+    }
+  }
+]
