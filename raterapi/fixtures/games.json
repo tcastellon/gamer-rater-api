@@ -1,0 +1,72 @@
+[
+  {
+    "model": "raterapi.game",
+    "pk": 1,
+    "fields": {
+      "title": "Catan",
+      "description": "In Catan, players try to be the dominant force on the island of Catan by building settlements, cities, and roads. On each turn dice are rolled to determine what resources the island produces. Players collect these resources to build up their civilizations to get to 10 victory points and win the game.",
+      "designer": "Klaus Teuber",
+      "year_released": 1995,
+      "num_of_players": 4,
+      "est_play_time": 120,
+      "age_recommendation": 10,
+      "user": 1
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 2,
+    "fields": {
+      "title": "Pandemic",
+      "description": "In Pandemic, several virulent diseases have broken out simultaneously all over the world! The players are disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand.",
+      "designer": "Matt Leacock",
+      "year_released": 2008,
+      "num_of_players": 4,
+      "est_play_time": 45,
+      "age_recommendation": 8,
+      "user": 2
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 3,
+    "fields": {
+      "title": "Codenames",
+      "description": "Codenames is a social word game with a simple premise and challenging game play. Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames. The teams compete to see who can make contact with all of their agents first.",
+      "designer": "Vlaada Chvátil",
+      "year_released": 2015,
+      "num_of_players": 8,
+      "est_play_time": 15,
+      "age_recommendation": 14,
+      "user": 3
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 4,
+    "fields": {
+      "title": "Ticket to Ride",
+      "description": "With elegantly simple gameplay, Ticket to Ride can be learned in under 15 minutes. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn.",
+      "designer": "Alan R. Moon",
+      "year_released": 2004,
+      "num_of_players": 5,
+      "est_play_time": 60,
+      "age_recommendation": 8,
+      "user": 1
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 5,
+    "fields": {
+      "title": "Azul",
+      "description": "Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles.",
+      "designer": "Michael Kiesling",
+      "year_released": 2017,
+      "num_of_players": 4,
+      "est_play_time": 45,
+      "age_recommendation": 8,
+      "user": 2
+    }
+  }
+]
