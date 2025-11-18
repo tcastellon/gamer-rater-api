@@ -19,8 +19,8 @@
     "model": "raterapi.gamecategory",
     "pk": 3,
     "fields": {
-      "game": 2,
-      "category": 5
+      "game": 1,
+      "category": 3
     }
   },
   {
@@ -35,8 +35,8 @@
     "model": "raterapi.gamecategory",
     "pk": 5,
     "fields": {
-      "game": 3,
-      "category": 3
+      "game": 2,
+      "category": 9
     }
   },
   {
@@ -44,7 +44,7 @@
     "pk": 6,
     "fields": {
       "game": 3,
-      "category": 2
+    "category": 3
     }
   },
   {
@@ -60,7 +60,7 @@
     "pk": 8,
     "fields": {
       "game": 4,
-      "category": 2
+      "category": 3
     }
   },
   {
@@ -69,14 +69,6 @@
     "fields": {
       "game": 5,
       "category": 1
-    }
-  },
-  {
-    "model": "raterapi.gamecategory",
-    "pk": 10,
-    "fields": {
-      "game": 5,
-      "category": 2
     }
   }
 ]
