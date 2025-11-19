@@ -1,0 +1,52 @@
+[
+  {
+    "model": "raterapi.gameimage",
+    "pk": 1,
+    "fields": {
+      "game": 1,
+      "user": 1,
+      "image_file": "game_images/catan_board.jpg",
+      "uploaded_at": "2024-11-17T23:40:00Z"
+    }
+  },
+  {
+    "model": "raterapi.gameimage",
+    "pk": 2,
+    "fields": {
+      "game": 2,
+      "user": 2,
+      "image_file": "game_images/pandemic_board.jpg",
+      "uploaded_at": "2024-11-17T23:40:00Z"
+    }
+  },
+  {
+    "model": "raterapi.gameimage",
+    "pk": 3,
+    "fields": {
+      "game": 3,
+      "user": 3,
+      "image_file": "game_images/codenames_board.jpg",
+      "uploaded_at": "2024-11-17T23:40:00Z"
+    }
+  },
+  {
+    "model": "raterapi.gameimage",
+    "pk": 4,
+    "fields": {
+      "game": 4,
+      "user": 1,
+      "image_file": "game_images/ticket_to_ride_board.jpg",
+      "uploaded_at": "2024-11-17T23:40:00Z"
+    }
+  },
+  {
+    "model": "raterapi.gameimage",
+    "pk": 5,
+    "fields": {
+      "game": 5,
+      "user": 2,
+      "image_file": "game_images/azul_board.jpg",
+      "uploaded_at": "2024-11-17T23:40:00Z"
+    }
+  }
+]
